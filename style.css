@@ -140,7 +140,7 @@
 
   /* Logo Container */
   .logo-container {
-    margin-top: 5rem;
+    margin: 5rem auto;
   }
 
   /* Header Image */
@@ -154,12 +154,12 @@
 
   .left-image {
     left: -3%;
-    top:15%;
+    top:30%;
   }
 
   .right-image {
     right: -3%;
-    top: 20%;
+    top: 35%;
   }
 
   /* Main Section */
