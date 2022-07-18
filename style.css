@@ -85,6 +85,10 @@
     letter-spacing: 4px;
   }
 
+  .hidden {
+    display: none;
+  }
+
   .aqua {
     color: var(--aqua);
   }
