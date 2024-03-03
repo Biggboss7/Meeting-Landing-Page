@@ -31,7 +31,7 @@ Mobile Preview \
 ### Links
 
 - Solution URL: https://github.com/Biggboss7/Meeting-Landing-Page/
-- Live Site URL: https://biggboss7.github.io/Meeting-Landing-Page/
+- Live Site URL: https://biggboss7.github.io/Meeting-Landing-Page/](https://meeting-landing-page.netlify.app/
 
 ## My process
 
